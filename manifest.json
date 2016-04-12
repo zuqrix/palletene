@@ -1,4 +1,18 @@
 {
-"name":"Palletene-Handy Pallet Manager"
+  "manifest_version":"2",
+  "name":"Palletene-Handy Pallet Manager",
+  "description":"Its a handy pallet manager for front end designers",
+  "version":"1.0"
+  "browser_action":{
+    "default_icon":"icon.png",
+    "default_popup":"index.html"
+  },
+  "icons": {
+    "16":"icon.png",
+    "48":"icon.png",
+    "128":"icon.png"
+    },
+    
+  }
+  
 
-}
